@@ -3,7 +3,7 @@
 * EV Analytics Dashboard :
 An interactive analytics dashboard for exploring Electric Vehicle (EV) registration data with filtering, insights, and visualizations. The project is designed with performance, scalability, and user experience in mind.
 
-🔗 Live Dashboard Link: https://your-live-dashboard-url.com
+🔗 Live Dashboard Link: https://evdataanalysis.netlify.app/
 
 * Features
 
