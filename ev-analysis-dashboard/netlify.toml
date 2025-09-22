@@ -1,6 +1,5 @@
 [build]
-  base = "ev-analysis-dashboard"
-  publish = "ev-analysis-dashboard/dist"
+  publish = "dist"
   command = "npm run build"
 
 [build.environment]
